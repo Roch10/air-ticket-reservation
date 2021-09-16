@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Roch10/air-ticket-reservation#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "http-status-codes": "^2.1.4",
     "nodemon": "^2.0.12"
   }
 }
